@@ -1,0 +1,3 @@
+name: AFKPlugin
+main: com.gitlab.zachdeibert.AFKPlugin.AFKPlugin
+version: 1.0
