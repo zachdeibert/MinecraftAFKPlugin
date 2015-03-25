@@ -1,3 +1,11 @@
 name: AFKPlugin
 main: com.gitlab.zachdeibert.AFKPlugin.AFKPlugin
 version: 1.0
+website: https://gitlab.com/zachdeibert/AFKPlugin
+description: A plugin that allows players to AFK
+authors:
+ - Zach Deibert
+commands:
+    afk:
+        description: Toggles a player's AFK state
+        usage: /afk
