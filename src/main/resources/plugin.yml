@@ -1,6 +1,6 @@
 name: AFKPlugin
 main: com.gitlab.zachdeibert.AFKPlugin.AFKPlugin
-version: 1.0
+version: 1.1
 website: https://gitlab.com/zachdeibert/AFKPlugin
 description: A plugin that allows players to AFK
 authors:
